@@ -19,7 +19,6 @@ class Utils {
     }
   }
 }
-
 class Investment {
   
   constructor(value, month) {
